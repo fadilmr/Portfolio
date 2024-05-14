@@ -1,0 +1,25 @@
+{
+  "about": {
+    "name": "Muhammad Fadil",
+    "position": "AI Engineer (Hopefully)",
+    "school": "Telkom University",
+    "status": "Searching for scolarship to Japan",
+    "interests": [
+      "Reading",
+      "Playing RPG",
+      "3D Modelling"
+    ],
+    "email": "m.muhammadfadil12@gmail.com",
+    "phone": "(+62) 8225-8603-110"
+  },
+  "links": {    
+    "LinkedIn": {
+      "linkName": "/fadilmr",
+      "linkUrl": "https://www.linkedin.com/in/fadilmr/"
+    },
+    "GitHub": {
+      "linkName": "/fadilmr",
+      "linkUrl": "https://github.com/fadilmr"
+    }
+  }
+}

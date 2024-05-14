@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Communicare",
+    "description": "a mobile application developed as part of the C23 PS325 Product Capstone project for Bangkit Academy 2023. The application leverages the principles of communication psychology and integrates machine learning technologies to improve users' communication skills.",
+    "techStack": ["Python", "Tensorflow", "FastAPI"],
+    "githubLink": "https://github.com/C23-PS325"
+  },
+  {
+    "name": "UpCycle",
+    "description": "A group project about a marketplace for second hand item for university students. (Involved in backend)",
+    "techStack": ["Laravel", "Python", "Tensorflow"],
+    "githubLink": "https://github.com/fadilmr/UpCycle"
+  },
+  {
+    "name": "Kuzushiji Recognition",
+    "description": "A program for Kaggle competition, it allows the machine to recognize the handwritten japanese character with computer vision",
+    "techStack": ["Python", "Tensorflow", "Open-CV"],
+    "githubLink": "https://github.com/fadilmr/Kuzushiji-Recognition"
+  },
+  {
+    "name": "Cinemasmas",
+    "description": "A GUI for theater Management System based on Java",
+    "techStack": ["Java"],
+    "githubLink": "https://github.com/fadilmr/pbo-bioskop"
+  }
+]

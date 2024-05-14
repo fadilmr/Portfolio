@@ -1,0 +1,40 @@
+{
+  "education": {
+    "institution": "Telkom University",
+    "degree": "Honours Bachelor of Computers",
+    "program": "Informatics",
+    "duration": "2020 - 2024"
+  },
+  "experiences": [
+    {
+      "position": "Data Analyst Intern at Ministry of National Development Planning of the Republic of Indonesia",
+      "location": "South Jakarta",
+      "duration": "Jul 2023 - Sep 2023 (3 months)"
+    },
+    {
+      "position": "Data Analyst at Ministry of National Development Planning of the Republic of Indonesia",
+      "location": "South Jakarta",
+      "duration": "Mar 2024 - current"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "C/C++",
+      "C#",
+      "Python",
+      "Golang",
+      "PHP"
+    ],
+    "libraries and frameworks": [
+      "Laravel",
+      "Tensorflow",
+      "Pytorch"
+    ],
+    "technologies": ["Git", "Postman", "GitHub"],
+    "methodologies": [
+      "Machine learning",
+      "REST APIs",
+      "Deep learning"
+    ]
+  }
+}
